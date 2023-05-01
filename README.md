@@ -153,5 +153,11 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Author
-Yves ISHIMWE
+## Authors
+Walter Angoye - [Github](https://github.com/chyna-gvng)  
+Bevil Mulor - [Github](https://github.com/BevilMulor)
+## Contribution
+first part of the project: Walter Angoye
+Second part of project: Bevil Mulor
+## License
+Public Domain. No copy write protection. 
